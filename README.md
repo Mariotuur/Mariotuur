@@ -109,3 +109,5 @@
 Credit: [mariotuur](https://github.com/mariotuur)
 
 Last Edited on: 29/04/2025
+
+<img alt="github-snake" src="https://raw.githubusercontent.com/mariotuur/mariotuur/output/github-snake.svg" />
