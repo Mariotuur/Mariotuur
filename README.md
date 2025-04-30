@@ -58,7 +58,7 @@
 
 <br>
 
-## <picture> <img src = "https://github.com/antluqmol1/antluqmol1/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/mariotuur/mariotuur/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
 <!--- stats & Trophy (start) -->
 
@@ -69,7 +69,7 @@
 <td width="50%" align="center">
   <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=mariotuur&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=antluqmol1&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mariotuur&theme=dark&hide_border=false" /> 
 </td>
 
 
